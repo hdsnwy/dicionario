@@ -1,1 +1,1 @@
-# dicionario
+# corretor
